@@ -560,7 +560,7 @@ export default function Home() {
 
           <div className="border-t border-gray-800 pt-8">
             <p className="text-gray-400 text-lg">
-              © 2024 Abhishek Gurjar. Built with <span className="text-indigo-400 font-semibold">Next.js</span>,{" "}
+              © 2025 Abhishek Gurjar. Built with <span className="text-indigo-400 font-semibold">Next.js</span>,{" "}
               <span className="text-purple-400 font-semibold">React</span>, and{" "}
               <span className="text-pink-400 font-semibold">TypeScript</span>.
             </p>
