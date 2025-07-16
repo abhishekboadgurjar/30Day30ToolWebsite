@@ -1,0 +1,16 @@
+export const EXPENSE_CATEGORIES = [
+  { value: "food", label: "Food & Dining", icon: "🍽️" },
+  { value: "transportation", label: "Transportation", icon: "🚗" },
+  { value: "shopping", label: "Shopping", icon: "🛍️" },
+  { value: "entertainment", label: "Entertainment", icon: "🎬" },
+  { value: "bills", label: "Bills & Utilities", icon: "💡" },
+  { value: "healthcare", label: "Healthcare", icon: "🏥" },
+  { value: "education", label: "Education", icon: "📚" },
+  { value: "travel", label: "Travel", icon: "✈️" },
+  { value: "fitness", label: "Fitness & Sports", icon: "💪" },
+  { value: "personal", label: "Personal Care", icon: "💄" },
+  { value: "home", label: "Home & Garden", icon: "🏠" },
+  { value: "gifts", label: "Gifts & Donations", icon: "🎁" },
+  { value: "business", label: "Business", icon: "💼" },
+  { value: "other", label: "Other", icon: "📝" },
+]
