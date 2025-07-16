@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://github-profile-viewer.vercel.app/sitemap.xml
+
+# Additional directives
+Crawl-delay: 1
+
+# Disallow any sensitive paths (none for this public tool)
